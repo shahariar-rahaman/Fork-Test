@@ -1,4 +1,4 @@
-def sum(a,b):
-    add = a+b
-    return add
-print(sum(4,10))
+def readme():
+    print("ReadMe.md is a markdown file")
+    print("For maintainer request.I do that")
+readme()
